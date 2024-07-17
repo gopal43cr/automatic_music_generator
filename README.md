@@ -26,12 +26,12 @@ This project uses a Transformer neural network to generate music from MIDI files
 3. Place your MIDI files in the `data` folder.
 
 4. Run the scripts in the following order
-   1. ```bash python load_data.py ```
-   2. ```bash python preprocess.py ```
-   3. ```bash python model.py ```
-   4. ```bash python train.py ```
-   5. ```bash python generate.py ```
-   6. ```bash python creatMIDI.py ```
+   1. ```python load_data.py ```
+   2. ```python preprocess.py ```
+   3. ```python model.py ```
+   4. ```python train.py ```
+   5. ```python generate.py ```
+   6. ```python creatMIDI.py ```
       
 5. After running the train.py scripts, in the 'models' folder one file will be saved as 'transformer_model.pth'
    
