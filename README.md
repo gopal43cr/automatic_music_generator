@@ -1,4 +1,4 @@
-# Automatic Music Generator
+# Melodify
 
 This project uses a Transformer neural network to generate music from MIDI files. The model is trained on a dataset of MIDI files and learns to predict the next note given a sequence of previous notes. The generated music is then saved as a MIDI file.
 
